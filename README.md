@@ -1,12 +1,12 @@
 Tutorial Membuat Aplikasi Absensi dengan Face Detection Flutter
 
 # Tutorial Build with Android Studio
-https://youtu.be/ur7pOxQRMPw
+https://youtu.be/MHT8THxypsU
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2024/06/tutorial-membuat-aplikasi-absensi-dengan-face-detection-flutter.html
+https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-dengan-gemini-ai-android-studio.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NZO_QD283u9z3cHQaB1tD-00PLl32KOUu3iEeSswJlVMBBSJMIUPlKWAkuHF251yKcLvkXaF2N3z_Meuci2PUJmAxDUGjJ5D4xBiCoU0upWmNiKBmxdPkg7LeYSYE13UpHCdnTbOm2GY9XQQs-Zb0xxqacWPLr0GZ2qVvCWJUw5L7q0MSieJVBY4Uym_/s1280/Tutorial%20Membuat%20Aplikasi%20Absensi%20dengan%20Face%20Detection%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/06/tutorial-membuat-aplikasi-absensi-dengan-face-detection-flutter.html" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVT97vvhzWWG9MYHd6ln-JR2sk20mHV6HIYPPXSuirkBQzgNVH_mp3RJrEqkEUGFBkWgl0pERdxb1i2MUiKrB2NlSHD332OcR5MruiACDAOnyXO_O_hrK0vpwfH18iRS0xsj_uTq8vVN3YcxzyUrkUG3NTmkj1ttrhUT8O4hyphenhyphenxxa69EesEDrbsZvelp7R/s1280/Tutorial%20Membuat%20Aplikasi%20Text%20&amp;%20Image%20Recognition%20dengan%20Gemini%20AI.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-dengan-gemini-ai-android-studio.html" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
